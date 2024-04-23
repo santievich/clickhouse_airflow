@@ -1,0 +1,17 @@
+/clickhouse_data/data/
+/clickhouse_data/metadata/
+/logs/scheduler/
+/logs/dag_processor_manager/
+/clickhouse_data/access/
+/clickhouse_data/dictionaries_lib/
+/clickhouse_data/flags/
+/clickhouse_data/format_schemas/
+/clickhouse_data/metadata/
+/clickhouse_data/metadata_dropped/
+/clickhouse_data/preprocessed_configs/
+/clickhouse_data/store/
+/clickhouse_data/tmp/
+/clickhouse_data/user_defined/
+/clickhouse_data/user_files/
+/clickhouse_data/user_scripts/
+/clickhouse_data/uuid
